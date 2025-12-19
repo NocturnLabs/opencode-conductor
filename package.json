@@ -17,9 +17,7 @@
     "development",
     "workflow"
   ],
-  "scripts": {
-    "install": "mise run install"
-  },
+  "scripts": {},
   "devDependencies": {
     "typescript": "^5.0.0",
     "@types/node": "^20.0.0"
