@@ -1,0 +1,8 @@
+[tasks.install]
+description = "Install opencode-conductor plugin and commands"
+run = """
+mkdir -p .opencode/plugin .opencode/command
+cp plugin/conductor.ts .opencode/plugin/
+cp command/conductor-*.md .opencode/command/
+echo "opencode-conductor installed successfully!"
+"""

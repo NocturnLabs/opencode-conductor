@@ -1,0 +1,8 @@
+.osgrep/
+dist/
+.github/
+mise.toml
+tsconfig.json
+conductor/
+.opencode/
+*.log

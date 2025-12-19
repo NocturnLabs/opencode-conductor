@@ -1,0 +1,30 @@
+{
+  "name": "opencode-conductor",
+  "version": "1.0.1",
+  "description": "OpenCode plugin for Context-Driven Development workflow",
+  "main": "plugin/conductor.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NocturnLabs/opencode-conductor.git"
+  },
+  "author": "codingincarhartts <yumlabs.team@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "opencode",
+    "plugin",
+    "conductor",
+    "context-driven",
+    "development",
+    "workflow"
+  ],
+  "scripts": {
+    "install": "mise run install"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "@types/node": "^20.0.0"
+  },
+  "dependencies": {
+    "@opencode-ai/plugin": "*"
+  }
+}

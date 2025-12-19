@@ -1,0 +1,7 @@
+node_modules/
+.osgrep/
+dist/
+conductor/
+.opencode/
+*.log
+.DS_Store
