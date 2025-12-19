@@ -1,6 +1,6 @@
 {
   "name": "opencode-conductor",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "OpenCode plugin for Context-Driven Development workflow",
   "main": "plugin/conductor.ts",
   "repository": {
