@@ -5,7 +5,7 @@
   "main": "plugin/conductor.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/NocturnLabs/opencode-conductor.git"
+    "url": "https://github.com/CodingInCarhartts/opencode-conductor.git"
   },
   "author": "codingincarhartts <yumlabs.team@gmail.com>",
   "license": "MIT",
